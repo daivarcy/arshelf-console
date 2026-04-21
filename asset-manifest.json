@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/arshelf-console/static/css/main.f855e6bc.css",
-    "main.js": "/arshelf-console/static/js/main.55b16041.js",
+    "main.js": "/arshelf-console/static/js/main.1e8edeb0.js",
     "static/js/453.9ede50c5.chunk.js": "/arshelf-console/static/js/453.9ede50c5.chunk.js",
     "index.html": "/arshelf-console/index.html",
     "main.f855e6bc.css.map": "/arshelf-console/static/css/main.f855e6bc.css.map",
-    "main.55b16041.js.map": "/arshelf-console/static/js/main.55b16041.js.map",
+    "main.1e8edeb0.js.map": "/arshelf-console/static/js/main.1e8edeb0.js.map",
     "453.9ede50c5.chunk.js.map": "/arshelf-console/static/js/453.9ede50c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.55b16041.js"
+    "static/js/main.1e8edeb0.js"
   ]
 }
